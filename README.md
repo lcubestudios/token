@@ -1,2 +1,2 @@
 # token
-LCube Studios Demo Token - Solana
+LCube Studios Token - Solana
